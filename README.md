@@ -39,7 +39,6 @@ print("The number of words is in the file is ",num)
 ```
 
 ### OUTPUT:
-
 ![output](photo.png)
 
 ## RESULT:
