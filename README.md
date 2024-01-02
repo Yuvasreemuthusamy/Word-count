@@ -5,17 +5,23 @@ To write a python program for getting the word count from a text.
 PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
-### Step 1: Open visual studio code
+### Step 1: 
+Open visual studio code
 
-### Step 2: Create file with.py extension
+### Step 2:
+ Create file with.py extension
  
-### Step 3: Start the program
+### Step 3:
+ Start the program
 
-### Step 4:  Write the code
+### Step 4:
+  Write the code
 
-### Step 5: Run terminal for output of the given program
+### Step 5:
+ Run terminal for output of the given program
 
-### Step 6: End the program
+### Step 6: 
+End the program
 
 ## PROGRAM:
 ```
